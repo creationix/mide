@@ -1,0 +1,36 @@
+[submodule "lib/js-git"]
+	url = git@github.com:creationix/js-git.git
+	ref = refs/heads/master
+	path = lib/js-git
+[submodule "lib/js-github"]
+	url = git@github.com:creationix/js-github.git
+	ref = refs/heads/master
+	path = lib/js-github
+[submodule "lib/bodec"]
+	url = git@github.com:creationix/bodec.git
+	ref = refs/heads/master
+	path = lib/bodec
+[submodule "lib/git-sha1"]
+	url = git@github.com:creationix/git-sha1.git
+	ref = refs/heads/master
+	path = lib/git-sha1
+[submodule "lib/jack"]
+	url = git@github.com:creationix/jack.git
+	ref = refs/heads/master
+	path = lib/jack
+[submodule "lib/domchanger"]
+	url = git@github.com:creationix/domchanger.git
+	ref = refs/heads/master
+	path = lib/domchanger
+[submodule "lib/pathjoin"]
+	url = git@github.com:creationix/pathjoin.git
+	ref = refs/heads/master
+	path = lib/pathjoin
+[submodule "lib/pako"]
+	url = git@github.com:nodeca/pako.git
+	ref = refs/heads/master
+	path = lib/pako
+[submodule "filters"]
+	url = git@github.com:creationix/my-filters.git
+	ref = refs/heads/master
+	path = filters

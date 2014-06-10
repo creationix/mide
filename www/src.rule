@@ -1,0 +1,20 @@
+{
+  program: "js-compiler"
+
+  mappings: {
+    -- Map to the main tedit source files
+    main.js: "src/main.js"
+    data: "src/data"
+    ui: "src/ui"
+
+    -- Map to the external dependencies
+    bodec.js: "lib/bodec/bodec.js"
+    domchanger.js: "lib/domchanger/domchanger.js"
+    git-sha1.js: "lib/git-sha1/git-sha1.js"
+    jack: "lib/jack"
+    js-git: "lib/js-git"
+    js-github: "lib/js-github"
+    pako: "lib/pako/lib"
+    pathjoin.js: "lib/pathjoin/pathjoin.js"
+  }
+}
